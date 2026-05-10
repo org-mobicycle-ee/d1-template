@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "98cf4363-057e-472b-a6d4-49c136d5a7a7",
+			"database_name": "35_judges"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
