@@ -12,5 +12,5 @@
 	],
 	"observability": {
 		"enabled": true
-	}
+	},"env": {"ou":{"name":"d1-template"}}
 }
